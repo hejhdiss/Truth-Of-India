@@ -1,0 +1,55 @@
+# Truth Of India
+
+A collection of documented investigative articles on BJP and RSS governance — written by **Muhammed Shafin P** (hejhdiss), from Malappuram, Kerala.
+
+🌐 **Live site:** [truthofindia.netlify.app](https://truthofindia.netlify.app/)
+
+---
+
+## Why This Exists
+
+This is not a political pamphlet. It is not written against Hinduism, or against any Indian.
+
+It is written in defence of the **Constitution of India** — the document that guarantees equality for every person on this soil, regardless of religion, caste, gender, or origin.
+
+The articles in this series are based entirely on publicly verifiable sources: government data, Supreme Court records, NCRB statistics, UN reports, and internationally published journalism. Every claim can be checked. Every source is listed. Readers are encouraged to verify independently and disagree where the evidence takes them.
+
+The author is not a professional journalist or academic. He is an educated Indian citizen who looked at the public record and could not stay quiet.
+
+---
+
+## How This Repo Works
+
+`index.html` is the full site — a single-page reader that loads each `.md` article inline. All article files sit in the same directory. No framework, no build step. Deploy anywhere static hosting works (GitHub Pages, Netlify, etc.).
+
+---
+
+## Articles
+
+| File | Title | What it covers |
+|------|-------|----------------|
+| `betrayal-of-palastenians.md` | **When Refugees Became Occupiers: The Betrayal of Palestine** | The documented history of the Nakba, who started the Iran-Israel war, and the bombing of a girls' school where 165 children were killed. |
+| `south-india-vs-rss-brainwash.md` | **You Dropped Your Brain. RSS Picked It Up.** | How RSS manufactured consent through textbook revision, media capture, and social conditioning — and why South India has been more resistant to it. |
+| `indias-compromised-pm.md` | **India's First Compromised Prime Minister** | Indira Gandhi made the USS Enterprise turn around. Modi asked Trump for a 30-day oil permit. The full documented record of India's surrendered sovereignty. |
+| `modi-puppet-sovereignty.md` | **Is Modi Renting Out India's House?** | Three concrete tests of whether Modi can say no to Washington — on energy, Palestine, and independent foreign policy. He fails all three. Includes the documented story of Indian workers sent to replace Palestinians at Netanyahu's personal request. |
+| `bjp-rss-farmers-betrayal.md` | **The Broken Promise: How BJP and RSS Betrayed India's Farmers** | 300,000 farmer suicides since 1995. The three farm laws, the year-long protest of 700,000 people, the Lakhimpur Kheri killings, and Modi's broken promise to double farmers' income by 2022. |
+| `bjp-rss-children-betrayal.md` | **The Children BJP Left Behind** | India's child malnutrition crisis, POCSO failures, NCERT textbook deletions, and what the hunger index data actually shows about BJP's decade in power. |
+| `bjp-rss-violence-impunity.md` | **Violence Without Consequence** | Hathras, Manipur, Bilkis Bano, bulldozer politics — a documented record of state-enabled violence against minorities, women, and Dalits, and the pattern of impunity that follows. |
+| `bjp-rss-corruption-cronyism-fifa.md` | **Electoral Bonds, Adani, and the FIFA Ban** | The Electoral Bonds scheme dismantled by the Supreme Court, the Adani-Modi nexus documented by Hindenburg and OCCRP, and India's FIFA suspension over political interference in football. |
+| `bjp-rss-india-tech-development.md` | **Digital India's Dark Side** | India leads the world in internet shutdowns. The gap between the Digital India brand and the reality of censorship, surveillance, and press freedom collapse. |
+| `bjp-rss-truth-india.md` | **The Full Record** | A summary article tying together the ten-part series — what BJP and RSS have done to India's farmers, children, minorities, institutions, and standing in the world. |
+
+---
+
+## Author
+
+**Muhammed Shafin P** · writing as **hejhdiss** · Malappuram, Kerala, India
+
+- Medium: [medium.com/@hejhdiss](https://medium.com/@hejhdiss)
+- Email: hejhdiss@gmail.com
+
+> *"Everything in this series is based on documented, verifiable public records. Sources are listed at the end of every article. Check them. Disagree if the evidence takes you there. That is the whole point."*
+
+---
+
+© 2026 Muhammed Shafin P. Content may be shared freely with attribution.
