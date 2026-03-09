@@ -73,4 +73,25 @@ README.md
 
 ---
 
+## Hosting Change — Netlify → Cloudflare Workers
+
+This project was previously hosted on **Netlify** (free tier). The Netlify deployment served the article `.md` files as static assets directly alongside `index.html` — the frontend fetched them at runtime using `fetch('filename.md')`.
+
+The free tier bandwidth limit was hit due to reader traffic, so the site has been migrated to **Cloudflare Workers** (free tier), which has no bandwidth cap.
+
+### What Changed for `.md` Files
+
+On Netlify, `.md` article files (e.g. `betrayal-of-palastenians.md`, `south-india-vs-rss-brainwash.md`) were deployed as plain static files and fetched directly by the browser.
+
+On Cloudflare Workers, static files must be explicitly bundled and served through the Worker script. Each `.md` file is included as part of the Worker's assets so the `fetch()` calls in `index.html` continue to work without any changes to the frontend code.
+
+### Why Cloudflare
+
+- No bandwidth limits on the free tier
+- Global CDN edge delivery
+- Cloudflare's free tier handles high-traffic sites without throttling or suspension
+- Zero config changes needed on the `index.html` side — the `.md` fetch logic remains identical
+
+---
+
 © 2026 Muhammed Shafin P. Content may be shared freely with attribution.
