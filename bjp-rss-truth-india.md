@@ -268,4 +268,4 @@ That is what this article is. Read it. Check the sources. Share it with someone 
 - Indian Science Congress pseudoscience — The Hindu, Scroll.in (multiple years)
 
 *Written by Muhammed Shafin P (hejhdiss) — Malappuram, Kerala, India.*
-*Contact: hejhdiss@gmail.com | https://truthofindia.netlify.app/*
+*Contact: hejhdiss@gmail.com | https://truthofindia.hejhdiss.workers.dev/*
