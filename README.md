@@ -2,7 +2,7 @@
 
 A collection of documented investigative articles on BJP and RSS governance — written by **Muhammed Shafin P** (hejhdiss), from Malappuram, Kerala.
 
-🌐 **Live site:** [truthofindia.netlify.app](https://truthofindia.netlify.app/)
+🌐 **Live site:** [https://truthofindia.hejhdiss.workers.dev/](https://truthofindia.hejhdiss.workers.dev/)
 
 ---
 
